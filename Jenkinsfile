@@ -1,7 +1,7 @@
 pipeline {
   agent any
    environment {
-      JAVA_HOME = 'C:\Java\jdk-11'
+      JAVA_HOME = 'C:/Java/jdk-11'
     }
   tools {
     maven 'mavenmy'
