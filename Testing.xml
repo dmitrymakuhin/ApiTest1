@@ -1,0 +1,10 @@
+
+
+<suite name="Auth suite">
+    <test name="Auth tests">
+        <classes>
+            <class name="AuthTests" />
+        </classes>
+    </test>
+</suite>
+
